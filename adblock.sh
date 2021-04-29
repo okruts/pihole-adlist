@@ -7,5 +7,9 @@ sort -u adblock.unsorted | grep ^\|\|.*\^$ | grep -v \/ > adblock.sorted
 # remove extra chars
 sed 's/[\|^]//g' < adblock.sorted > adblock.hosts
 
+# add 0.0.0.0
+awk '{ printf "0.0.0.0 "; print }' adblock.hosts > adblock-ua.hosts
+
 # remove files we no longer need
-rm adblock.unsorted adblock.sorted
+rm adblock.unsorted adblock.sorted adblock.hosts
+
