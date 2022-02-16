@@ -1,0 +1,1331 @@
+#EXTM3U
+#EXTINF:0  timeshift="3",RTVI
+http://s1.tvshka.net/~shwGR3nCZGhoI/119/
+#EXTINF:0  timeshift="8",Домашний
+http://s1.tvshka.net/~shwGR3nCZGhoI/19/
+#EXTINF:0  timeshift="1",Домашний (+4)
+http://s1.tvshka.net/~shwGR3nCZGhoI/701/
+#EXTINF:0  timeshift="3",Домашний HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/535/
+#EXTINF:0  timeshift="8",Звезда
+http://s1.tvshka.net/~shwGR3nCZGhoI/15/
+#EXTINF:0  timeshift="3",Звезда HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/699/
+#EXTINF:0  timeshift="3",Звезда Плюс
+http://s1.tvshka.net/~shwGR3nCZGhoI/660/
+#EXTINF:0,Звезда Плюс HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/746/
+#EXTINF:0  timeshift="8",МИР
+http://s1.tvshka.net/~shwGR3nCZGhoI/45/
+#EXTINF:0  timeshift="8",НТВ
+http://s1.tvshka.net/~shwGR3nCZGhoI/3/
+#EXTINF:0  timeshift="1",НТВ (+4)
+http://s1.tvshka.net/~shwGR3nCZGhoI/302/
+#EXTINF:0  timeshift="1",НТВ (+7)
+http://s1.tvshka.net/~shwGR3nCZGhoI/748/
+#EXTINF:0  timeshift="8",НТВ FHD
+http://s1.tvshka.net/~shwGR3nCZGhoI/743/
+#EXTINF:0  timeshift="8",НТВ HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/133/
+#EXTINF:0  timeshift="3",НТВ Мир
+http://s1.tvshka.net/~shwGR3nCZGhoI/395/
+#EXTINF:0,ОТР
+http://s1.tvshka.net/~shwGR3nCZGhoI/140/
+#EXTINF:0  timeshift="8",Первый канал
+http://s1.tvshka.net/~shwGR3nCZGhoI/1/
+#EXTINF:0  timeshift="1",Первый канал (+4) FHD
+http://s1.tvshka.net/~shwGR3nCZGhoI/747/
+#EXTINF:0  timeshift="1",Первый Канал (+6)
+http://s1.tvshka.net/~shwGR3nCZGhoI/300/
+#EXTINF:0  timeshift="8",Первый канал FHD
+http://s1.tvshka.net/~shwGR3nCZGhoI/741/
+#EXTINF:0  timeshift="8",Первый канал HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/130/
+#EXTINF:0  timeshift="8",Пятница
+http://s1.tvshka.net/~shwGR3nCZGhoI/52/
+#EXTINF:0  timeshift="8",Пятница HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/336/
+#EXTINF:0  timeshift="1",Пятница! (+4)
+http://s1.tvshka.net/~shwGR3nCZGhoI/334/
+#EXTINF:0  timeshift="8",Пятый канал
+http://s1.tvshka.net/~shwGR3nCZGhoI/7/
+#EXTINF:0  timeshift="1",Пятый канал (+4)
+http://s1.tvshka.net/~shwGR3nCZGhoI/702/
+#EXTINF:0  timeshift="8",РЕН ТВ
+http://s1.tvshka.net/~shwGR3nCZGhoI/14/
+#EXTINF:0  timeshift="1",РЕН ТВ (+4)
+http://s1.tvshka.net/~shwGR3nCZGhoI/700/
+#EXTINF:0  timeshift="8",РЕН ТВ HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/120/
+#EXTINF:0  timeshift="8",Россия 1
+http://s1.tvshka.net/~shwGR3nCZGhoI/2/
+#EXTINF:0  timeshift="1",Россия 1 (+6)
+http://s1.tvshka.net/~shwGR3nCZGhoI/301/
+#EXTINF:0  timeshift="8",Россия 1 FHD
+http://s1.tvshka.net/~shwGR3nCZGhoI/742/
+#EXTINF:0  timeshift="8",Россия 1 HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/132/
+#EXTINF:0  timeshift="8",Россия К
+http://s1.tvshka.net/~shwGR3nCZGhoI/4/
+#EXTINF:0  timeshift="8",РТР-Планета
+http://s1.tvshka.net/~shwGR3nCZGhoI/47/
+#EXTINF:0  timeshift="8",СТС
+http://s1.tvshka.net/~shwGR3nCZGhoI/12/
+#EXTINF:0  timeshift="1",СТС (+4)
+http://s1.tvshka.net/~shwGR3nCZGhoI/338/
+#EXTINF:0  timeshift="1",СТС (+7)
+http://s1.tvshka.net/~shwGR3nCZGhoI/750/
+#EXTINF:0  timeshift="8",СТС HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/381/
+#EXTINF:0  timeshift="8",ТВ-3
+http://s1.tvshka.net/~shwGR3nCZGhoI/11/
+#EXTINF:0  timeshift="1",ТВ-3 (+4)
+http://s1.tvshka.net/~shwGR3nCZGhoI/360/
+#EXTINF:0  timeshift="8",ТВ-3 HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/340/
+#EXTINF:0  timeshift="8",ТВЦ
+http://s1.tvshka.net/~shwGR3nCZGhoI/10/
+#EXTINF:0  timeshift="1",ТВЦ (+4)
+http://s1.tvshka.net/~shwGR3nCZGhoI/703/
+#EXTINF:0,ТВЦ HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/745/
+#EXTINF:0  timeshift="8",ТНТ
+http://s1.tvshka.net/~shwGR3nCZGhoI/16/
+#EXTINF:0  timeshift="1",ТНТ (+4)
+http://s1.tvshka.net/~shwGR3nCZGhoI/303/
+#EXTINF:0  timeshift="1",ТНТ (+7)
+http://s1.tvshka.net/~shwGR3nCZGhoI/749/
+#EXTINF:0  timeshift="8",ТНТ FHD
+http://s1.tvshka.net/~shwGR3nCZGhoI/744/
+#EXTINF:0  timeshift="8",ТНТ HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/134/
+#EXTINF:0  timeshift="3",AMC
+http://s1.tvshka.net/~shwGR3nCZGhoI/440/
+#EXTINF:0  timeshift="8",Amedia 1
+http://s1.tvshka.net/~shwGR3nCZGhoI/69/
+#EXTINF:0  timeshift="3",Amedia 2
+http://s1.tvshka.net/~shwGR3nCZGhoI/391/
+#EXTINF:0  timeshift="8",Amedia Hit
+http://s1.tvshka.net/~shwGR3nCZGhoI/53/
+#EXTINF:0  timeshift="8",Amedia Premium HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/129/
+#EXTINF:0  timeshift="8",Black
+http://s1.tvshka.net/~shwGR3nCZGhoI/107/
+#EXTINF:0,Bollywood HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/171/
+#EXTINF:0  timeshift="3",Bolt RU
+http://s1.tvshka.net/~shwGR3nCZGhoI/226/
+#EXTINF:0  timeshift="3",Bolt UA
+http://s1.tvshka.net/~shwGR3nCZGhoI/704/
+#EXTINF:0  timeshift="8",Cinema
+http://s1.tvshka.net/~shwGR3nCZGhoI/20/
+#EXTINF:0  timeshift="3",Filmbox
+http://s1.tvshka.net/~shwGR3nCZGhoI/273/
+#EXTINF:0  timeshift="3",FilmBox ArtHouse
+http://s1.tvshka.net/~shwGR3nCZGhoI/285/
+#EXTINF:0  timeshift="3",FilmUA Drama
+http://s1.tvshka.net/~shwGR3nCZGhoI/557/
+#EXTINF:0  timeshift="3",FlixShip
+http://s1.tvshka.net/~shwGR3nCZGhoI/707/
+#EXTINF:0  timeshift="3",Fox
+http://s1.tvshka.net/~shwGR3nCZGhoI/40/
+#EXTINF:0  timeshift="3",Fox HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/620/
+#EXTINF:0  timeshift="3",Fox Life
+http://s1.tvshka.net/~shwGR3nCZGhoI/39/
+#EXTINF:0  timeshift="3",Fox Life HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/621/
+#EXTINF:0  timeshift="3",Hollywood
+http://s1.tvshka.net/~shwGR3nCZGhoI/358/
+#EXTINF:0  timeshift="3",Hollywood HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/375/
+#EXTINF:0  timeshift="8",Paramount Channel
+http://s1.tvshka.net/~shwGR3nCZGhoI/385/
+#EXTINF:0  timeshift="3",Paramount Comedy
+http://s1.tvshka.net/~shwGR3nCZGhoI/183/
+#EXTINF:0  timeshift="3",Paramount Comedy HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/618/
+#EXTINF:0  timeshift="3",Paramount Сhannel HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/617/
+#EXTINF:0  timeshift="3",RED
+http://s1.tvshka.net/~shwGR3nCZGhoI/331/
+#EXTINF:0  timeshift="3",RED HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/619/
+#EXTINF:0  timeshift="8",Sci-Fi
+http://s1.tvshka.net/~shwGR3nCZGhoI/106/
+#EXTINF:0  timeshift="3",Shot TV
+http://s1.tvshka.net/~shwGR3nCZGhoI/262/
+#EXTINF:0  timeshift="3",Star Cinema
+http://s1.tvshka.net/~shwGR3nCZGhoI/274/
+#EXTINF:0  timeshift="3",Star Family
+http://s1.tvshka.net/~shwGR3nCZGhoI/275/
+#EXTINF:0,Timeless Dizi Channel
+http://s1.tvshka.net/~shwGR3nCZGhoI/706/
+#EXTINF:0,Trash HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/591/
+#EXTINF:0  timeshift="8",TV 1000
+http://s1.tvshka.net/~shwGR3nCZGhoI/144/
+#EXTINF:0  timeshift="8",TV 1000 Action
+http://s1.tvshka.net/~shwGR3nCZGhoI/145/
+#EXTINF:0  timeshift="3",TV 1000 Action HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/405/
+#EXTINF:0  timeshift="3",TV 1000 HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/413/
+#EXTINF:0  timeshift="3",TV 1000 Русское кино HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/417/
+#EXTINF:0  timeshift="3",TV XXI
+http://s1.tvshka.net/~shwGR3nCZGhoI/13/
+#EXTINF:0  timeshift="3",TV1000 World kino
+http://s1.tvshka.net/~shwGR3nCZGhoI/378/
+#EXTINF:0  timeshift="8",TV1000 Русское кино
+http://s1.tvshka.net/~shwGR3nCZGhoI/146/
+#EXTINF:0  timeshift="8",ViP Comedy HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/163/
+#EXTINF:0  timeshift="3",ViP Megahit HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/164/
+#EXTINF:0  timeshift="3",ViP Premiere HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/165/
+#EXTINF:0  timeshift="3",VIP Serial HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/256/
+#EXTINF:0  timeshift="3",Арсенал
+http://s1.tvshka.net/~shwGR3nCZGhoI/415/
+#EXTINF:0  timeshift="3",Блокбастер HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/475/
+#EXTINF:0,Время далекое и близкое
+http://s1.tvshka.net/~shwGR3nCZGhoI/705/
+#EXTINF:0  timeshift="3",День Победы HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/490/
+#EXTINF:0  timeshift="8",Дом кино
+http://s1.tvshka.net/~shwGR3nCZGhoI/64/
+#EXTINF:0  timeshift="8",Дом Кино Премиум HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/122/
+#EXTINF:0,Дорама
+http://s1.tvshka.net/~shwGR3nCZGhoI/175/
+#EXTINF:0  timeshift="8",Душевное HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/539/
+#EXTINF:0  timeshift="3",Еврокино
+http://s1.tvshka.net/~shwGR3nCZGhoI/350/
+#EXTINF:0  timeshift="3",Иллюзион +
+http://s1.tvshka.net/~shwGR3nCZGhoI/86/
+#EXTINF:0  timeshift="3",Индийское кино
+http://s1.tvshka.net/~shwGR3nCZGhoI/82/
+#EXTINF:0  timeshift="3",Камеди HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/473/
+#EXTINF:0  timeshift="8",Кино ТВ
+http://s1.tvshka.net/~shwGR3nCZGhoI/190/
+#EXTINF:0  timeshift="3",Кино ТВ HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/751/
+#EXTINF:0  timeshift="3",Кинокомедия
+http://s1.tvshka.net/~shwGR3nCZGhoI/341/
+#EXTINF:0  timeshift="3",Кинокомедия HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/623/
+#EXTINF:0  timeshift="8",Киномикс
+http://s1.tvshka.net/~shwGR3nCZGhoI/95/
+#EXTINF:0  timeshift="3",Киномикс HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/624/
+#EXTINF:0  timeshift="3",Кинопоказ
+http://s1.tvshka.net/~shwGR3nCZGhoI/335/
+#EXTINF:0  timeshift="8",Кинопремьера
+http://s1.tvshka.net/~shwGR3nCZGhoI/128/
+#EXTINF:0  timeshift="3",Киносат
+http://s1.tvshka.net/~shwGR3nCZGhoI/339/
+#EXTINF:0  timeshift="8",Киносвидание
+http://s1.tvshka.net/~shwGR3nCZGhoI/113/
+#EXTINF:0  timeshift="3",Киносвидание HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/410/
+#EXTINF:0  timeshift="8",Киносемья
+http://s1.tvshka.net/~shwGR3nCZGhoI/68/
+#EXTINF:0  timeshift="3",Киносемья HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/418/
+#EXTINF:0  timeshift="8",Киносерия
+http://s1.tvshka.net/~shwGR3nCZGhoI/396/
+#EXTINF:0  timeshift="3",Киносерия HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/625/
+#EXTINF:0  timeshift="3",Киноужас
+http://s1.tvshka.net/~shwGR3nCZGhoI/690/
+#EXTINF:0  timeshift="3",Киноужас HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/362/
+#EXTINF:0  timeshift="8",Кинохит
+http://s1.tvshka.net/~shwGR3nCZGhoI/48/
+#EXTINF:0  timeshift="3",Кинохит HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/406/
+#EXTINF:0  timeshift="8",Комедийное HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/161/
+#EXTINF:0  timeshift="3",Любимое HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/349/
+#EXTINF:0  timeshift="8",Мир сериала
+http://s1.tvshka.net/~shwGR3nCZGhoI/41/
+#EXTINF:0  timeshift="3",Мосфильм. Золотая коллекция
+http://s1.tvshka.net/~shwGR3nCZGhoI/616/
+#EXTINF:0  timeshift="8",Мужское кино
+http://s1.tvshka.net/~shwGR3nCZGhoI/186/
+#EXTINF:0  timeshift="3",Мужское Кино HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/622/
+#EXTINF:0  timeshift="3",Настоящее Страшное Телевидение
+http://s1.tvshka.net/~shwGR3nCZGhoI/390/
+#EXTINF:0  timeshift="3",Наш Кинопоказ HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/470/
+#EXTINF:0  timeshift="3",Наше Крутое HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/158/
+#EXTINF:0  timeshift="3",Наше любимое кино
+http://s1.tvshka.net/~shwGR3nCZGhoI/356/
+#EXTINF:0  timeshift="3",Наше мужское HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/472/
+#EXTINF:0  timeshift="8",Наше новое кино
+http://s1.tvshka.net/~shwGR3nCZGhoI/62/
+#EXTINF:0  timeshift="3",Наше Новое Кино HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/626/
+#EXTINF:0  timeshift="3",НТВ Право
+http://s1.tvshka.net/~shwGR3nCZGhoI/357/
+#EXTINF:0  timeshift="8",НТВ Сериал
+http://s1.tvshka.net/~shwGR3nCZGhoI/179/
+#EXTINF:0  timeshift="8",НТВ Хит
+http://s1.tvshka.net/~shwGR3nCZGhoI/180/
+#EXTINF:0  timeshift="8",Остросюжетное HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/155/
+#EXTINF:0  timeshift="8",Победа
+http://s1.tvshka.net/~shwGR3nCZGhoI/293/
+#EXTINF:0  timeshift="8",Премиальное HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/154/
+#EXTINF:0  timeshift="3",Про Любовь
+http://s1.tvshka.net/~shwGR3nCZGhoI/471/
+#EXTINF:0  timeshift="8",Родное кино
+http://s1.tvshka.net/~shwGR3nCZGhoI/63/
+#EXTINF:0  timeshift="3",Романтичное HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/365/
+#EXTINF:0  timeshift="8",Русская комедия
+http://s1.tvshka.net/~shwGR3nCZGhoI/185/
+#EXTINF:0  timeshift="8",Русский бестселлер
+http://s1.tvshka.net/~shwGR3nCZGhoI/115/
+#EXTINF:0  timeshift="8",Русский детектив
+http://s1.tvshka.net/~shwGR3nCZGhoI/65/
+#EXTINF:0  timeshift="8",Русский иллюзион
+http://s1.tvshka.net/~shwGR3nCZGhoI/96/
+#EXTINF:0  timeshift="3",Русский Роман
+http://s1.tvshka.net/~shwGR3nCZGhoI/89/
+#EXTINF:0  timeshift="3",Русский роман HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/435/
+#EXTINF:0  timeshift="3",Страшное HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/241/
+#EXTINF:0,Феникс + Кино
+http://s1.tvshka.net/~shwGR3nCZGhoI/383/
+#EXTINF:0  timeshift="3",Хит HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/474/
+#EXTINF:0  timeshift="8",Шокирующее HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/160/
+#EXTINF:0  timeshift="3",Canal Plus Sport
+http://s1.tvshka.net/~shwGR3nCZGhoI/555/
+#EXTINF:0  timeshift="3",Canal Plus Sport 2
+http://s1.tvshka.net/~shwGR3nCZGhoI/564/
+#EXTINF:0,Canal Plus Sport 3
+http://s1.tvshka.net/~shwGR3nCZGhoI/767/
+#EXTINF:0,Canal Plus Sport 4
+http://s1.tvshka.net/~shwGR3nCZGhoI/768/
+#EXTINF:0  timeshift="3",Eurosport 1 FHD
+http://s1.tvshka.net/~shwGR3nCZGhoI/762/
+#EXTINF:0  timeshift="8",Eurosport 1 HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/22/
+#EXTINF:0  timeshift="3",Eurosport 2 FHD
+http://s1.tvshka.net/~shwGR3nCZGhoI/763/
+#EXTINF:0  timeshift="8",Eurosport 2 HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/57/
+#EXTINF:0  timeshift="3",Eurosport Gold
+http://s1.tvshka.net/~shwGR3nCZGhoI/764/
+#EXTINF:0  timeshift="3",Extreme Sports
+http://s1.tvshka.net/~shwGR3nCZGhoI/136/
+#EXTINF:0  timeshift="3",FightBox HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/224/
+#EXTINF:0,Golf Channel
+http://s1.tvshka.net/~shwGR3nCZGhoI/571/
+#EXTINF:0  timeshift="3",M-1 Global
+http://s1.tvshka.net/~shwGR3nCZGhoI/255/
+#EXTINF:0,MostVideo HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/772/
+#EXTINF:0,Motowizja TV
+http://s1.tvshka.net/~shwGR3nCZGhoI/771/
+#EXTINF:0,NBA TV
+http://s1.tvshka.net/~shwGR3nCZGhoI/538/
+#EXTINF:0  timeshift="3",NSport
+http://s1.tvshka.net/~shwGR3nCZGhoI/561/
+#EXTINF:0  timeshift="3",Polsat Sport Extra HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/595/
+#EXTINF:0  timeshift="3",Polsat Sport HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/594/
+#EXTINF:0  timeshift="3",Sport 1 DE
+http://s1.tvshka.net/~shwGR3nCZGhoI/509/
+#EXTINF:0  timeshift="3",Sport 1 UA
+http://s1.tvshka.net/~shwGR3nCZGhoI/253/
+#EXTINF:0  timeshift="3",Sport 2 UA
+http://s1.tvshka.net/~shwGR3nCZGhoI/254/
+#EXTINF:0,Sport Klub
+http://s1.tvshka.net/~shwGR3nCZGhoI/770/
+#EXTINF:0  timeshift="3",Super Tennis
+http://s1.tvshka.net/~shwGR3nCZGhoI/333/
+#EXTINF:0,TVP Sport
+http://s1.tvshka.net/~shwGR3nCZGhoI/769/
+#EXTINF:0  timeshift="3",UFC ТВ HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/292/
+#EXTINF:0  timeshift="3",Viasat Sport
+http://s1.tvshka.net/~shwGR3nCZGhoI/150/
+#EXTINF:0  timeshift="3",Viasat Sport HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/507/
+#EXTINF:0,Xsport
+http://s1.tvshka.net/~shwGR3nCZGhoI/200/
+#EXTINF:0  timeshift="3",Авто плюс
+http://s1.tvshka.net/~shwGR3nCZGhoI/55/
+#EXTINF:0  timeshift="3",Бокс ТВ
+http://s1.tvshka.net/~shwGR3nCZGhoI/184/
+#EXTINF:0,Конный мир
+http://s1.tvshka.net/~shwGR3nCZGhoI/721/
+#EXTINF:0  timeshift="8",КХЛ
+http://s1.tvshka.net/~shwGR3nCZGhoI/329/
+#EXTINF:0  timeshift="8",КХЛ Prime
+http://s1.tvshka.net/~shwGR3nCZGhoI/157/
+#EXTINF:0  timeshift="3",Матч! FHD
+http://s1.tvshka.net/~shwGR3nCZGhoI/669/
+#EXTINF:0  timeshift="3",Матч! HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/5/
+#EXTINF:0  timeshift="3",Матч! Арена FHD
+http://s1.tvshka.net/~shwGR3nCZGhoI/765/
+#EXTINF:0  timeshift="8",Матч! Арена HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/21/
+#EXTINF:0  timeshift="3",Матч! Боец
+http://s1.tvshka.net/~shwGR3nCZGhoI/59/
+#EXTINF:0  timeshift="3",Матч! Игра FHD
+http://s1.tvshka.net/~shwGR3nCZGhoI/766/
+#EXTINF:0  timeshift="8",Матч! Игра HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/46/
+#EXTINF:0  timeshift="3",Матч! Планета
+http://s1.tvshka.net/~shwGR3nCZGhoI/355/
+#EXTINF:0  timeshift="3",Матч! Премьер FHD
+http://s1.tvshka.net/~shwGR3nCZGhoI/670/
+#EXTINF:0  timeshift="3",Матч! Премьер HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/61/
+#EXTINF:0  timeshift="3",Матч! Страна
+http://s1.tvshka.net/~shwGR3nCZGhoI/32/
+#EXTINF:0  timeshift="3",Матч! Футбол 1 FHD
+http://s1.tvshka.net/~shwGR3nCZGhoI/715/
+#EXTINF:0  timeshift="3",Матч! Футбол 1 HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/56/
+#EXTINF:0  timeshift="3",Матч! Футбол 2 FHD
+http://s1.tvshka.net/~shwGR3nCZGhoI/716/
+#EXTINF:0  timeshift="3",Матч! Футбол 2 HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/60/
+#EXTINF:0  timeshift="3",Матч! Футбол 3 FHD
+http://s1.tvshka.net/~shwGR3nCZGhoI/717/
+#EXTINF:0  timeshift="3",Матч! Футбол 3 HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/98/
+#EXTINF:0,Мир Баскетбола
+http://s1.tvshka.net/~shwGR3nCZGhoI/225/
+#EXTINF:0,Моторспорт.ТВ
+http://s1.tvshka.net/~shwGR3nCZGhoI/380/
+#EXTINF:0  timeshift="3",Русский экстрим HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/151/
+#EXTINF:0  timeshift="3",Сетанта Спорт +  Украина
+http://s1.tvshka.net/~shwGR3nCZGhoI/477/
+#EXTINF:0  timeshift="3",Сетанта Спорт 1
+http://s1.tvshka.net/~shwGR3nCZGhoI/50/
+#EXTINF:0  timeshift="3",Сетанта Спорт 2
+http://s1.tvshka.net/~shwGR3nCZGhoI/286/
+#EXTINF:0  timeshift="3",Сетанта Спорт Украина
+http://s1.tvshka.net/~shwGR3nCZGhoI/291/
+#EXTINF:0  timeshift="3",Спортивный HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/719/
+#EXTINF:0  timeshift="3",Старт
+http://s1.tvshka.net/~shwGR3nCZGhoI/376/
+#EXTINF:0  timeshift="3",Футбол
+http://s1.tvshka.net/~shwGR3nCZGhoI/671/
+#EXTINF:0  timeshift="3",Футбол 1 HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/109/
+#EXTINF:0  timeshift="3",Футбол 1 SD
+http://s1.tvshka.net/~shwGR3nCZGhoI/461/
+#EXTINF:0  timeshift="3",Футбол 2 HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/110/
+#EXTINF:0  timeshift="3",Футбол 2 SD
+http://s1.tvshka.net/~shwGR3nCZGhoI/462/
+#EXTINF:0  timeshift="3",Футбол 3 HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/545/
+#EXTINF:0  timeshift="3",Футбол 3 SD
+http://s1.tvshka.net/~shwGR3nCZGhoI/572/
+#EXTINF:0  timeshift="3",Футбольный HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/720/
+#EXTINF:0  timeshift="3",Хоккейный HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/718/
+#EXTINF:0,Шахтер ТВ
+http://s1.tvshka.net/~shwGR3nCZGhoI/589/
+#EXTINF:0,360 Новости
+http://s1.tvshka.net/~shwGR3nCZGhoI/258/
+#EXTINF:0,Aljazeera English
+http://s1.tvshka.net/~shwGR3nCZGhoI/760/
+#EXTINF:0,BBC World News
+http://s1.tvshka.net/~shwGR3nCZGhoI/143/
+#EXTINF:0,Bloomberg
+http://s1.tvshka.net/~shwGR3nCZGhoI/344/
+#EXTINF:0,CNN
+http://s1.tvshka.net/~shwGR3nCZGhoI/103/
+#EXTINF:0,Euronews
+http://s1.tvshka.net/~shwGR3nCZGhoI/94/
+#EXTINF:0,France 24
+http://s1.tvshka.net/~shwGR3nCZGhoI/664/
+#EXTINF:0,OstWest
+http://s1.tvshka.net/~shwGR3nCZGhoI/532/
+#EXTINF:0,RTД
+http://s1.tvshka.net/~shwGR3nCZGhoI/228/
+#EXTINF:0  timeshift="3",Дождь
+http://s1.tvshka.net/~shwGR3nCZGhoI/44/
+#EXTINF:0,Известия
+http://s1.tvshka.net/~shwGR3nCZGhoI/236/
+#EXTINF:0,Мир 24
+http://s1.tvshka.net/~shwGR3nCZGhoI/537/
+#EXTINF:0,Москва 24
+http://s1.tvshka.net/~shwGR3nCZGhoI/665/
+#EXTINF:0,РБК
+http://s1.tvshka.net/~shwGR3nCZGhoI/37/
+#EXTINF:0,Россия 24
+http://s1.tvshka.net/~shwGR3nCZGhoI/6/
+#EXTINF:0  timeshift="3",2x2
+http://s1.tvshka.net/~shwGR3nCZGhoI/38/
+#EXTINF:0,7D7 TV
+http://s1.tvshka.net/~shwGR3nCZGhoI/576/
+#EXTINF:0,E TV
+http://s1.tvshka.net/~shwGR3nCZGhoI/709/
+#EXTINF:0,Fashion HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/708/
+#EXTINF:0,Food Network
+http://s1.tvshka.net/~shwGR3nCZGhoI/487/
+#EXTINF:0,Gags Network
+http://s1.tvshka.net/~shwGR3nCZGhoI/661/
+#EXTINF:0  timeshift="8",Бобер
+http://s1.tvshka.net/~shwGR3nCZGhoI/121/
+#EXTINF:0,Глазами туриста
+http://s1.tvshka.net/~shwGR3nCZGhoI/493/
+#EXTINF:0  timeshift="3",Еда
+http://s1.tvshka.net/~shwGR3nCZGhoI/91/
+#EXTINF:0  timeshift="3",Еда Приемиум HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/229/
+#EXTINF:0,КВН ТВ
+http://s1.tvshka.net/~shwGR3nCZGhoI/187/
+#EXTINF:0  timeshift="3",Кухня ТВ
+http://s1.tvshka.net/~shwGR3nCZGhoI/81/
+#EXTINF:0  timeshift="3",Мужской
+http://s1.tvshka.net/~shwGR3nCZGhoI/531/
+#EXTINF:0  timeshift="3",НТВ Стиль
+http://s1.tvshka.net/~shwGR3nCZGhoI/361/
+#EXTINF:0  timeshift="3",Сарафан
+http://s1.tvshka.net/~shwGR3nCZGhoI/90/
+#EXTINF:0  timeshift="3",СТС Love
+http://s1.tvshka.net/~shwGR3nCZGhoI/17/
+#EXTINF:0  timeshift="8",Суббота
+http://s1.tvshka.net/~shwGR3nCZGhoI/178/
+#EXTINF:0  timeshift="3",Суббота HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/528/
+#EXTINF:0,Танцуй
+http://s1.tvshka.net/~shwGR3nCZGhoI/662/
+#EXTINF:0,Театр
+http://s1.tvshka.net/~shwGR3nCZGhoI/692/
+#EXTINF:0  timeshift="8",ТНТ4
+http://s1.tvshka.net/~shwGR3nCZGhoI/36/
+#EXTINF:0  timeshift="3",ТНТ4 HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/491/
+#EXTINF:0  timeshift="8",Че
+http://s1.tvshka.net/~shwGR3nCZGhoI/8/
+#EXTINF:0  timeshift="3",Ю-ТВ
+http://s1.tvshka.net/~shwGR3nCZGhoI/43/
+#EXTINF:0,1 Music HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/268/
+#EXTINF:0,1Music Channel Hungary
+http://s1.tvshka.net/~shwGR3nCZGhoI/755/
+#EXTINF:0,4ever music HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/367/
+#EXTINF:0,4FUN
+http://s1.tvshka.net/~shwGR3nCZGhoI/756/
+#EXTINF:0,9 Волна
+http://s1.tvshka.net/~shwGR3nCZGhoI/753/
+#EXTINF:0  timeshift="3",Aiva HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/250/
+#EXTINF:0,Bridge Hits
+http://s1.tvshka.net/~shwGR3nCZGhoI/663/
+#EXTINF:0,Bridge TV
+http://s1.tvshka.net/~shwGR3nCZGhoI/271/
+#EXTINF:0,Bridge TV Classic
+http://s1.tvshka.net/~shwGR3nCZGhoI/650/
+#EXTINF:0,Bridge TV Deluxe
+http://s1.tvshka.net/~shwGR3nCZGhoI/244/
+#EXTINF:0,Bridge TV Русский Хит
+http://s1.tvshka.net/~shwGR3nCZGhoI/270/
+#EXTINF:0,Bridge TV Шлягер
+http://s1.tvshka.net/~shwGR3nCZGhoI/593/
+#EXTINF:0,Club MTV
+http://s1.tvshka.net/~shwGR3nCZGhoI/651/
+#EXTINF:0,Deluxe Music HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/238/
+#EXTINF:0,EU Music
+http://s1.tvshka.net/~shwGR3nCZGhoI/269/
+#EXTINF:0,Europa Plus TV
+http://s1.tvshka.net/~shwGR3nCZGhoI/84/
+#EXTINF:0,EuropaPlus HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/711/
+#EXTINF:0,InRating HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/757/
+#EXTINF:0,Kronehit HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/245/
+#EXTINF:0,MCM Top
+http://s1.tvshka.net/~shwGR3nCZGhoI/257/
+#EXTINF:0,Mezzo Live HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/170/
+#EXTINF:0,MTV 00s
+http://s1.tvshka.net/~shwGR3nCZGhoI/100/
+#EXTINF:0,MTV 80s
+http://s1.tvshka.net/~shwGR3nCZGhoI/592/
+#EXTINF:0,MTV Live HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/135/
+#EXTINF:0,MTV Music
+http://s1.tvshka.net/~shwGR3nCZGhoI/102/
+#EXTINF:0,MTV Россия
+http://s1.tvshka.net/~shwGR3nCZGhoI/222/
+#EXTINF:0,MTV_90_s
+http://s1.tvshka.net/~shwGR3nCZGhoI/58/
+#EXTINF:0,MUSICBOX GOLD
+http://s1.tvshka.net/~shwGR3nCZGhoI/348/
+#EXTINF:0,Ritsa Music Channel
+http://s1.tvshka.net/~shwGR3nCZGhoI/758/
+#EXTINF:0,RU TV
+http://s1.tvshka.net/~shwGR3nCZGhoI/85/
+#EXTINF:0,RU.TV HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/654/
+#EXTINF:0,Russian MusicBox
+http://s1.tvshka.net/~shwGR3nCZGhoI/353/
+#EXTINF:0,Stingray Cmusic HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/710/
+#EXTINF:0,Stingray iConcerts HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/712/
+#EXTINF:0,Viva Россия
+http://s1.tvshka.net/~shwGR3nCZGhoI/759/
+#EXTINF:0,Жара
+http://s1.tvshka.net/~shwGR3nCZGhoI/243/
+#EXTINF:0,Жара Kids TV
+http://s1.tvshka.net/~shwGR3nCZGhoI/752/
+#EXTINF:0,Ля Минор. Мой музыкальный
+http://s1.tvshka.net/~shwGR3nCZGhoI/394/
+#EXTINF:0,Муз ТВ
+http://s1.tvshka.net/~shwGR3nCZGhoI/372/
+#EXTINF:0,Музыка Первого
+http://s1.tvshka.net/~shwGR3nCZGhoI/79/
+#EXTINF:0,Первый Музыкальный HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/754/
+#EXTINF:0,Первый Музыкальный RU HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/442/
+#EXTINF:0,Страна ФМ
+http://s1.tvshka.net/~shwGR3nCZGhoI/713/
+#EXTINF:0,ТНТ Music
+http://s1.tvshka.net/~shwGR3nCZGhoI/267/
+#EXTINF:0,Шансон-ТВ
+http://s1.tvshka.net/~shwGR3nCZGhoI/78/
+#EXTINF:0,365 дней ТВ
+http://s1.tvshka.net/~shwGR3nCZGhoI/240/
+#EXTINF:0  timeshift="8",Animal Planet
+http://s1.tvshka.net/~shwGR3nCZGhoI/25/
+#EXTINF:0  timeshift="3",Da Vinci
+http://s1.tvshka.net/~shwGR3nCZGhoI/83/
+#EXTINF:0  timeshift="8",Discovery Channel
+http://s1.tvshka.net/~shwGR3nCZGhoI/18/
+#EXTINF:0  timeshift="3",Discovery Channel HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/167/
+#EXTINF:0  timeshift="8",Discovery Science
+http://s1.tvshka.net/~shwGR3nCZGhoI/28/
+#EXTINF:0  timeshift="3",DTX
+http://s1.tvshka.net/~shwGR3nCZGhoI/27/
+#EXTINF:0  timeshift="3",Galaxy-TV
+http://s1.tvshka.net/~shwGR3nCZGhoI/220/
+#EXTINF:0  timeshift="3",H2  HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/290/
+#EXTINF:0  timeshift="3",HDL
+http://s1.tvshka.net/~shwGR3nCZGhoI/363/
+#EXTINF:0  timeshift="3",HGTV Home and Garden
+http://s1.tvshka.net/~shwGR3nCZGhoI/691/
+#EXTINF:0  timeshift="3",HGTV Home and Garden HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/638/
+#EXTINF:0  timeshift="8",History
+http://s1.tvshka.net/~shwGR3nCZGhoI/111/
+#EXTINF:0  timeshift="3",History HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/627/
+#EXTINF:0  timeshift="8",Investigation Discovery
+http://s1.tvshka.net/~shwGR3nCZGhoI/92/
+#EXTINF:0  timeshift="3",Investigation Discovery HD CEE
+http://s1.tvshka.net/~shwGR3nCZGhoI/252/
+#EXTINF:0,Motor Trend HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/714/
+#EXTINF:0  timeshift="8",Nat Geo Wild
+http://s1.tvshka.net/~shwGR3nCZGhoI/93/
+#EXTINF:0  timeshift="3",Nat Geo Wild HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/166/
+#EXTINF:0  timeshift="8",National Geographic
+http://s1.tvshka.net/~shwGR3nCZGhoI/29/
+#EXTINF:0  timeshift="3",National Geographic HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/168/
+#EXTINF:0  timeshift="3",RTG
+http://s1.tvshka.net/~shwGR3nCZGhoI/112/
+#EXTINF:0  timeshift="8",TLC
+http://s1.tvshka.net/~shwGR3nCZGhoI/137/
+#EXTINF:0  timeshift="3",TLC HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/761/
+#EXTINF:0  timeshift="3",Travel channel
+http://s1.tvshka.net/~shwGR3nCZGhoI/499/
+#EXTINF:0  timeshift="3",Travel Channel CE
+http://s1.tvshka.net/~shwGR3nCZGhoI/104/
+#EXTINF:0  timeshift="3",Travel+Adventure
+http://s1.tvshka.net/~shwGR3nCZGhoI/502/
+#EXTINF:0  timeshift="3",Viasat Explore
+http://s1.tvshka.net/~shwGR3nCZGhoI/147/
+#EXTINF:0  timeshift="3",Viasat History
+http://s1.tvshka.net/~shwGR3nCZGhoI/148/
+#EXTINF:0  timeshift="3",Viasat Nature
+http://s1.tvshka.net/~shwGR3nCZGhoI/149/
+#EXTINF:0,Большая Азия
+http://s1.tvshka.net/~shwGR3nCZGhoI/342/
+#EXTINF:0  timeshift="3",В мире животных HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/153/
+#EXTINF:0,Вопросы и ответы
+http://s1.tvshka.net/~shwGR3nCZGhoI/542/
+#EXTINF:0  timeshift="2.9583333333333",Диалоги о рыбалке
+http://s1.tvshka.net/~shwGR3nCZGhoI/221/
+#EXTINF:0  timeshift="3",Дикая Охота HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/217/
+#EXTINF:0  timeshift="3",Дикая Рыбалка HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/218/
+#EXTINF:0  timeshift="3",Дикий
+http://s1.tvshka.net/~shwGR3nCZGhoI/34/
+#EXTINF:0,Доктор
+http://s1.tvshka.net/~shwGR3nCZGhoI/667/
+#EXTINF:0  timeshift="3",Драйв
+http://s1.tvshka.net/~shwGR3nCZGhoI/188/
+#EXTINF:0  timeshift="3",Живая планета
+http://s1.tvshka.net/~shwGR3nCZGhoI/33/
+#EXTINF:0,Живая природа HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/219/
+#EXTINF:0  timeshift="3",Загородный
+http://s1.tvshka.net/~shwGR3nCZGhoI/282/
+#EXTINF:0  timeshift="3",История
+http://s1.tvshka.net/~shwGR3nCZGhoI/51/
+#EXTINF:0,Космический HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/162/
+#EXTINF:0,Кто есть кто
+http://s1.tvshka.net/~shwGR3nCZGhoI/668/
+#EXTINF:0  timeshift="3",Моя Планета
+http://s1.tvshka.net/~shwGR3nCZGhoI/88/
+#EXTINF:0,Моя стихия
+http://s1.tvshka.net/~shwGR3nCZGhoI/530/
+#EXTINF:0,Настоящее время HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/332/
+#EXTINF:0  timeshift="3",Наука 2.0
+http://s1.tvshka.net/~shwGR3nCZGhoI/49/
+#EXTINF:0  timeshift="3",Оружие
+http://s1.tvshka.net/~shwGR3nCZGhoI/242/
+#EXTINF:0  timeshift="3",Охота и Рыбалка
+http://s1.tvshka.net/~shwGR3nCZGhoI/628/
+#EXTINF:0  timeshift="3",Охотник и рыболов HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/152/
+#EXTINF:0,Поехали! HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/351/
+#EXTINF:0  timeshift="3",Приключения HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/159/
+#EXTINF:0  timeshift="3",Ретро
+http://s1.tvshka.net/~shwGR3nCZGhoI/189/
+#EXTINF:0  timeshift="3",Совершенно секретно
+http://s1.tvshka.net/~shwGR3nCZGhoI/87/
+#EXTINF:0,Союз
+http://s1.tvshka.net/~shwGR3nCZGhoI/388/
+#EXTINF:0  timeshift="3",СПАС
+http://s1.tvshka.net/~shwGR3nCZGhoI/105/
+#EXTINF:0  timeshift="3",Техно 24
+http://s1.tvshka.net/~shwGR3nCZGhoI/80/
+#EXTINF:0  timeshift="8",Усадьба
+http://s1.tvshka.net/~shwGR3nCZGhoI/118/
+#EXTINF:0  timeshift="3",Boomerang
+http://s1.tvshka.net/~shwGR3nCZGhoI/223/
+#EXTINF:0  timeshift="3",Cartoon Network
+http://s1.tvshka.net/~shwGR3nCZGhoI/30/
+#EXTINF:0,Disney Junior
+http://s1.tvshka.net/~shwGR3nCZGhoI/739/
+#EXTINF:0  timeshift="3",Gulli Girl
+http://s1.tvshka.net/~shwGR3nCZGhoI/76/
+#EXTINF:0  timeshift="3",JimJam
+http://s1.tvshka.net/~shwGR3nCZGhoI/77/
+#EXTINF:0  timeshift="3",Kidzone+
+http://s1.tvshka.net/~shwGR3nCZGhoI/99/
+#EXTINF:0  timeshift="3",Nick Jr.
+http://s1.tvshka.net/~shwGR3nCZGhoI/42/
+#EXTINF:0,Nicktoons
+http://s1.tvshka.net/~shwGR3nCZGhoI/247/
+#EXTINF:0  timeshift="3",Tiji
+http://s1.tvshka.net/~shwGR3nCZGhoI/75/
+#EXTINF:0,В гостях у сказки
+http://s1.tvshka.net/~shwGR3nCZGhoI/101/
+#EXTINF:0,Детский Мир
+http://s1.tvshka.net/~shwGR3nCZGhoI/655/
+#EXTINF:0  timeshift="3",Канал Disney
+http://s1.tvshka.net/~shwGR3nCZGhoI/26/
+#EXTINF:0,Капитан Фантастика
+http://s1.tvshka.net/~shwGR3nCZGhoI/666/
+#EXTINF:0  timeshift="3",Карусель
+http://s1.tvshka.net/~shwGR3nCZGhoI/9/
+#EXTINF:0,Малыш ТВ
+http://s1.tvshka.net/~shwGR3nCZGhoI/366/
+#EXTINF:0  timeshift="3",Мульт
+http://s1.tvshka.net/~shwGR3nCZGhoI/35/
+#EXTINF:0  timeshift="3",Мультиландия
+http://s1.tvshka.net/~shwGR3nCZGhoI/131/
+#EXTINF:0,Мультимузыка
+http://s1.tvshka.net/~shwGR3nCZGhoI/181/
+#EXTINF:0,Рыжий
+http://s1.tvshka.net/~shwGR3nCZGhoI/510/
+#EXTINF:0,Смайлик ТВ
+http://s1.tvshka.net/~shwGR3nCZGhoI/556/
+#EXTINF:0  timeshift="3",СТС Kids
+http://s1.tvshka.net/~shwGR3nCZGhoI/289/
+#EXTINF:0,10 TV MD
+http://s1.tvshka.net/~shwGR3nCZGhoI/494/
+#EXTINF:0  timeshift="3",8 Канал Беларусь
+http://s1.tvshka.net/~shwGR3nCZGhoI/498/
+#EXTINF:0,Canal 2 Moldova
+http://s1.tvshka.net/~shwGR3nCZGhoI/374/
+#EXTINF:0,Canal 3 Moldova
+http://s1.tvshka.net/~shwGR3nCZGhoI/392/
+#EXTINF:0  timeshift="3",Channel 9 IL
+http://s1.tvshka.net/~shwGR3nCZGhoI/117/
+#EXTINF:0,Disco Polo Music
+http://s1.tvshka.net/~shwGR3nCZGhoI/788/
+#EXTINF:0,Jurnal TV Moldova
+http://s1.tvshka.net/~shwGR3nCZGhoI/352/
+#EXTINF:0,Kino Polska
+http://s1.tvshka.net/~shwGR3nCZGhoI/789/
+#EXTINF:0,Moldova 1
+http://s1.tvshka.net/~shwGR3nCZGhoI/354/
+#EXTINF:0,Moldova 2
+http://s1.tvshka.net/~shwGR3nCZGhoI/408/
+#EXTINF:0,N4 Moldova
+http://s1.tvshka.net/~shwGR3nCZGhoI/425/
+#EXTINF:0,Norok TV
+http://s1.tvshka.net/~shwGR3nCZGhoI/596/
+#EXTINF:0,Orhei TV
+http://s1.tvshka.net/~shwGR3nCZGhoI/421/
+#EXTINF:0,Polsat 2 HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/784/
+#EXTINF:0,Polsat HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/783/
+#EXTINF:0,Polsat News
+http://s1.tvshka.net/~shwGR3nCZGhoI/785/
+#EXTINF:0,Prime HD Moldova
+http://s1.tvshka.net/~shwGR3nCZGhoI/370/
+#EXTINF:0,Pro TV HD MD/RO
+http://s1.tvshka.net/~shwGR3nCZGhoI/398/
+#EXTINF:0,Public TV of Armenia
+http://s1.tvshka.net/~shwGR3nCZGhoI/792/
+#EXTINF:0,Publika TV
+http://s1.tvshka.net/~shwGR3nCZGhoI/503/
+#EXTINF:0,TV8 HD Moldova
+http://s1.tvshka.net/~shwGR3nCZGhoI/343/
+#EXTINF:0,TVC21
+http://s1.tvshka.net/~shwGR3nCZGhoI/486/
+#EXTINF:0,TVN
+http://s1.tvshka.net/~shwGR3nCZGhoI/786/
+#EXTINF:0,TVN 24
+http://s1.tvshka.net/~shwGR3nCZGhoI/787/
+#EXTINF:0,TVN 7
+http://s1.tvshka.net/~shwGR3nCZGhoI/790/
+#EXTINF:0,TVN24 BiS HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/791/
+#EXTINF:0,TVP
+http://s1.tvshka.net/~shwGR3nCZGhoI/777/
+#EXTINF:0,TVP Historia
+http://s1.tvshka.net/~shwGR3nCZGhoI/782/
+#EXTINF:0  timeshift="3",TVP Polonia
+http://s1.tvshka.net/~shwGR3nCZGhoI/169/
+#EXTINF:0,TVP1
+http://s1.tvshka.net/~shwGR3nCZGhoI/778/
+#EXTINF:0,TVP2
+http://s1.tvshka.net/~shwGR3nCZGhoI/779/
+#EXTINF:0,TVP3 Info
+http://s1.tvshka.net/~shwGR3nCZGhoI/781/
+#EXTINF:0,TVP3 Warszawa
+http://s1.tvshka.net/~shwGR3nCZGhoI/780/
+#EXTINF:0,TVR Moldova
+http://s1.tvshka.net/~shwGR3nCZGhoI/397/
+#EXTINF:0,Zonam TV
+http://s1.tvshka.net/~shwGR3nCZGhoI/506/
+#EXTINF:0,Армения ТВ
+http://s1.tvshka.net/~shwGR3nCZGhoI/116/
+#EXTINF:0  timeshift="3",Беларусь 1
+http://s1.tvshka.net/~shwGR3nCZGhoI/231/
+#EXTINF:0  timeshift="3",Беларусь 2
+http://s1.tvshka.net/~shwGR3nCZGhoI/232/
+#EXTINF:0  timeshift="3",Беларусь 24
+http://s1.tvshka.net/~shwGR3nCZGhoI/234/
+#EXTINF:0  timeshift="3",Беларусь 3
+http://s1.tvshka.net/~shwGR3nCZGhoI/233/
+#EXTINF:0  timeshift="3",Беларусь 5
+http://s1.tvshka.net/~shwGR3nCZGhoI/235/
+#EXTINF:0,Белсат ТВ
+http://s1.tvshka.net/~shwGR3nCZGhoI/611/
+#EXTINF:0  timeshift="3",ВТВ Беларусь
+http://s1.tvshka.net/~shwGR3nCZGhoI/422/
+#EXTINF:0,НТВ Беларусь
+http://s1.tvshka.net/~shwGR3nCZGhoI/495/
+#EXTINF:0,НТВ Молдова
+http://s1.tvshka.net/~shwGR3nCZGhoI/643/
+#EXTINF:0  timeshift="3",ОНТ Беларусь
+http://s1.tvshka.net/~shwGR3nCZGhoI/337/
+#EXTINF:0  timeshift="3",СТВ Беларусь
+http://s1.tvshka.net/~shwGR3nCZGhoI/501/
+#EXTINF:0,ЯСНАе TV
+http://s1.tvshka.net/~shwGR3nCZGhoI/420/
+#EXTINF:0  timeshift="3",1+2
+http://s1.tvshka.net/~shwGR3nCZGhoI/722/
+#EXTINF:0,2 TV
+http://s1.tvshka.net/~shwGR3nCZGhoI/191/
+#EXTINF:0  timeshift="3",360 TV
+http://s1.tvshka.net/~shwGR3nCZGhoI/439/
+#EXTINF:0  timeshift="3",8TV
+http://s1.tvshka.net/~shwGR3nCZGhoI/775/
+#EXTINF:0  timeshift="3",Balticum
+http://s1.tvshka.net/~shwGR3nCZGhoI/280/
+#EXTINF:0  timeshift="3",Balticum Auksinis
+http://s1.tvshka.net/~shwGR3nCZGhoI/281/
+#EXTINF:0  timeshift="3",Balticum Platinum HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/630/
+#EXTINF:0  timeshift="8",BTV
+http://s1.tvshka.net/~shwGR3nCZGhoI/74/
+#EXTINF:0  timeshift="3",BTV HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/603/
+#EXTINF:0,Delfi LT
+http://s1.tvshka.net/~shwGR3nCZGhoI/488/
+#EXTINF:0  timeshift="3",EPIC Drama HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/424/
+#EXTINF:0  timeshift="3",ETV
+http://s1.tvshka.net/~shwGR3nCZGhoI/428/
+#EXTINF:0  timeshift="3",ETV 2
+http://s1.tvshka.net/~shwGR3nCZGhoI/483/
+#EXTINF:0  timeshift="3",ETV Plus
+http://s1.tvshka.net/~shwGR3nCZGhoI/482/
+#EXTINF:0  timeshift="3",FilmZone HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/266/
+#EXTINF:0  timeshift="3",FilmZone+ HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/260/
+#EXTINF:0  timeshift="3",Info TV
+http://s1.tvshka.net/~shwGR3nCZGhoI/371/
+#EXTINF:0  timeshift="3",Info TV HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/610/
+#EXTINF:0  timeshift="3",Init Play TV
+http://s1.tvshka.net/~shwGR3nCZGhoI/504/
+#EXTINF:0  timeshift="3",Kanal 2 Estonia
+http://s1.tvshka.net/~shwGR3nCZGhoI/459/
+#EXTINF:0  timeshift="3",Kanals 12 Estonia
+http://s1.tvshka.net/~shwGR3nCZGhoI/484/
+#EXTINF:0  timeshift="3",Kidzone
+http://s1.tvshka.net/~shwGR3nCZGhoI/284/
+#EXTINF:0  timeshift="3",Kidzone+ HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/640/
+#EXTINF:0,Latvijas Slagerkanals
+http://s1.tvshka.net/~shwGR3nCZGhoI/330/
+#EXTINF:0  timeshift="8",Lietuvos rytas TV
+http://s1.tvshka.net/~shwGR3nCZGhoI/24/
+#EXTINF:0  timeshift="3",Lietuvos rytas TV HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/609/
+#EXTINF:0  timeshift="8",LNK
+http://s1.tvshka.net/~shwGR3nCZGhoI/73/
+#EXTINF:0  timeshift="3",LNK HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/602/
+#EXTINF:0,Lolo TV
+http://s1.tvshka.net/~shwGR3nCZGhoI/629/
+#EXTINF:0  timeshift="3",LRT HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/604/
+#EXTINF:0  timeshift="3",LRT Plius
+http://s1.tvshka.net/~shwGR3nCZGhoI/283/
+#EXTINF:0  timeshift="3",LRT Plius HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/605/
+#EXTINF:0  timeshift="8",LRT TV
+http://s1.tvshka.net/~shwGR3nCZGhoI/72/
+#EXTINF:0  timeshift="8",LTV1
+http://s1.tvshka.net/~shwGR3nCZGhoI/71/
+#EXTINF:0  timeshift="8",LTV7
+http://s1.tvshka.net/~shwGR3nCZGhoI/66/
+#EXTINF:0,NHL
+http://s1.tvshka.net/~shwGR3nCZGhoI/639/
+#EXTINF:0,Nickelodeon
+http://s1.tvshka.net/~shwGR3nCZGhoI/31/
+#EXTINF:0  timeshift="3",PBK LT
+http://s1.tvshka.net/~shwGR3nCZGhoI/773/
+#EXTINF:0  timeshift="3",PBK LV
+http://s1.tvshka.net/~shwGR3nCZGhoI/138/
+#EXTINF:0  timeshift="3",RE:TV
+http://s1.tvshka.net/~shwGR3nCZGhoI/445/
+#EXTINF:0  timeshift="3",Riga TV24
+http://s1.tvshka.net/~shwGR3nCZGhoI/433/
+#EXTINF:0,SmartZone HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/265/
+#EXTINF:0  timeshift="3",Sport 1 LT HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/249/
+#EXTINF:0  timeshift="3",Sportacentrs
+http://s1.tvshka.net/~shwGR3nCZGhoI/432/
+#EXTINF:0  timeshift="3",STV Pirmā
+http://s1.tvshka.net/~shwGR3nCZGhoI/452/
+#EXTINF:0,Tavo TV
+http://s1.tvshka.net/~shwGR3nCZGhoI/508/
+#EXTINF:0  timeshift="8",TV1 Lithuania
+http://s1.tvshka.net/~shwGR3nCZGhoI/172/
+#EXTINF:0  timeshift="3",TV1 Lithuania HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/601/
+#EXTINF:0  timeshift="3",TV3 Estonia
+http://s1.tvshka.net/~shwGR3nCZGhoI/430/
+#EXTINF:0  timeshift="3",TV3 Film HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/264/
+#EXTINF:0  timeshift="8",TV3 Latvia
+http://s1.tvshka.net/~shwGR3nCZGhoI/70/
+#EXTINF:0  timeshift="8",TV3 Life
+http://s1.tvshka.net/~shwGR3nCZGhoI/23/
+#EXTINF:0  timeshift="8",TV3 Lithuania
+http://s1.tvshka.net/~shwGR3nCZGhoI/97/
+#EXTINF:0  timeshift="3",TV3 Lithuania HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/606/
+#EXTINF:0  timeshift="8",TV3 Mini
+http://s1.tvshka.net/~shwGR3nCZGhoI/141/
+#EXTINF:0  timeshift="3",TV3 Sport  LV
+http://s1.tvshka.net/~shwGR3nCZGhoI/590/
+#EXTINF:0  timeshift="3",TV3 Sport 2 LT HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/230/
+#EXTINF:0  timeshift="3",TV3 Sport 2 LV
+http://s1.tvshka.net/~shwGR3nCZGhoI/588/
+#EXTINF:0  timeshift="3",TV3 Sport LT HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/414/
+#EXTINF:0  timeshift="3",TV3 Sport Open LT
+http://s1.tvshka.net/~shwGR3nCZGhoI/776/
+#EXTINF:0  timeshift="3",TV3 Sport Open LV
+http://s1.tvshka.net/~shwGR3nCZGhoI/437/
+#EXTINF:0  timeshift="8",TV3+ Latvia
+http://s1.tvshka.net/~shwGR3nCZGhoI/142/
+#EXTINF:0,TV4
+http://s1.tvshka.net/~shwGR3nCZGhoI/774/
+#EXTINF:0  timeshift="3",TV6 Estonia
+http://s1.tvshka.net/~shwGR3nCZGhoI/431/
+#EXTINF:0  timeshift="8",TV6 Latvia
+http://s1.tvshka.net/~shwGR3nCZGhoI/139/
+#EXTINF:0  timeshift="8",TV6 Lithuania
+http://s1.tvshka.net/~shwGR3nCZGhoI/67/
+#EXTINF:0  timeshift="3",TV6 Lithuania HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/607/
+#EXTINF:0  timeshift="3",TV7 LT
+http://s1.tvshka.net/~shwGR3nCZGhoI/550/
+#EXTINF:0  timeshift="8",TV8 Lithuania
+http://s1.tvshka.net/~shwGR3nCZGhoI/173/
+#EXTINF:0  timeshift="3",TV8 Lithuania HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/608/
+#EXTINF:0  timeshift="8",1+1
+http://s1.tvshka.net/~shwGR3nCZGhoI/125/
+#EXTINF:0  timeshift="3",1+1 HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/455/
+#EXTINF:0  timeshift="8",2+2
+http://s1.tvshka.net/~shwGR3nCZGhoI/202/
+#EXTINF:0  timeshift="3",2+2 HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/529/
+#EXTINF:0,24 (Телеканал новостей 24)
+http://s1.tvshka.net/~shwGR3nCZGhoI/114/
+#EXTINF:0,34 Канал Украина
+http://s1.tvshka.net/~shwGR3nCZGhoI/803/
+#EXTINF:0,4 Канал Украина
+http://s1.tvshka.net/~shwGR3nCZGhoI/793/
+#EXTINF:0  timeshift="8",5 канал
+http://s1.tvshka.net/~shwGR3nCZGhoI/216/
+#EXTINF:0,7 Канал Одесса
+http://s1.tvshka.net/~shwGR3nCZGhoI/799/
+#EXTINF:0,English Club TV
+http://s1.tvshka.net/~shwGR3nCZGhoI/182/
+#EXTINF:0  timeshift="3",Enter Film
+http://s1.tvshka.net/~shwGR3nCZGhoI/401/
+#EXTINF:0  timeshift="3",Enter-фильм HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/731/
+#EXTINF:0  timeshift="8",ICTV
+http://s1.tvshka.net/~shwGR3nCZGhoI/123/
+#EXTINF:0  timeshift="3",ICTV HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/451/
+#EXTINF:0,Iнший
+http://s1.tvshka.net/~shwGR3nCZGhoI/805/
+#EXTINF:0,M2
+http://s1.tvshka.net/~shwGR3nCZGhoI/402/
+#EXTINF:0,Odesa Live TV HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/794/
+#EXTINF:0,OTV Music
+http://s1.tvshka.net/~shwGR3nCZGhoI/446/
+#EXTINF:0,UA TV
+http://s1.tvshka.net/~shwGR3nCZGhoI/798/
+#EXTINF:0  timeshift="3",Zoom
+http://s1.tvshka.net/~shwGR3nCZGhoI/444/
+#EXTINF:0  timeshift="3",Zoom HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/727/
+#EXTINF:0,А1 Одесса HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/797/
+#EXTINF:0,Академия
+http://s1.tvshka.net/~shwGR3nCZGhoI/802/
+#EXTINF:0  timeshift="3",Бігуді
+http://s1.tvshka.net/~shwGR3nCZGhoI/403/
+#EXTINF:0,Дача
+http://s1.tvshka.net/~shwGR3nCZGhoI/193/
+#EXTINF:0  timeshift="8",Еспресо TV
+http://s1.tvshka.net/~shwGR3nCZGhoI/204/
+#EXTINF:0  timeshift="3",Индиго ТВ
+http://s1.tvshka.net/~shwGR3nCZGhoI/456/
+#EXTINF:0  timeshift="8",Интер
+http://s1.tvshka.net/~shwGR3nCZGhoI/124/
+#EXTINF:0  timeshift="3",Интер HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/725/
+#EXTINF:0  timeshift="3",Интер+
+http://s1.tvshka.net/~shwGR3nCZGhoI/443/
+#EXTINF:0  timeshift="3",Интер+ HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/795/
+#EXTINF:0  timeshift="8",К1
+http://s1.tvshka.net/~shwGR3nCZGhoI/211/
+#EXTINF:0  timeshift="3",К1 HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/729/
+#EXTINF:0  timeshift="8",К2
+http://s1.tvshka.net/~shwGR3nCZGhoI/213/
+#EXTINF:0  timeshift="3",К2 HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/730/
+#EXTINF:0  timeshift="3",Квартал ТВ
+http://s1.tvshka.net/~shwGR3nCZGhoI/177/
+#EXTINF:0  timeshift="3",Культура
+http://s1.tvshka.net/~shwGR3nCZGhoI/207/
+#EXTINF:0  timeshift="3",М1
+http://s1.tvshka.net/~shwGR3nCZGhoI/215/
+#EXTINF:0,М1 HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/448/
+#EXTINF:0,М2 HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/453/
+#EXTINF:0,Малятко ТВ
+http://s1.tvshka.net/~shwGR3nCZGhoI/441/
+#EXTINF:0  timeshift="8",Мега
+http://s1.tvshka.net/~shwGR3nCZGhoI/198/
+#EXTINF:0  timeshift="3",Мега HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/728/
+#EXTINF:0,Наука
+http://s1.tvshka.net/~shwGR3nCZGhoI/196/
+#EXTINF:0,НАШ
+http://s1.tvshka.net/~shwGR3nCZGhoI/400/
+#EXTINF:0,Независимые
+http://s1.tvshka.net/~shwGR3nCZGhoI/806/
+#EXTINF:0  timeshift="3",НЛО
+http://s1.tvshka.net/~shwGR3nCZGhoI/540/
+#EXTINF:0  timeshift="3",НЛО HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/541/
+#EXTINF:0  timeshift="8",Новый канал
+http://s1.tvshka.net/~shwGR3nCZGhoI/214/
+#EXTINF:0  timeshift="3",Новый Канал HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/449/
+#EXTINF:0  timeshift="8",НТН
+http://s1.tvshka.net/~shwGR3nCZGhoI/210/
+#EXTINF:0  timeshift="3",НТН HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/726/
+#EXTINF:0,Оце ТВ
+http://s1.tvshka.net/~shwGR3nCZGhoI/438/
+#EXTINF:0,Первый Городской
+http://s1.tvshka.net/~shwGR3nCZGhoI/800/
+#EXTINF:0,Первый деловой
+http://s1.tvshka.net/~shwGR3nCZGhoI/127/
+#EXTINF:0,Первый крымский
+http://s1.tvshka.net/~shwGR3nCZGhoI/227/
+#EXTINF:0,Первый независимый
+http://s1.tvshka.net/~shwGR3nCZGhoI/740/
+#EXTINF:0,Перший незалежний HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/693/
+#EXTINF:0  timeshift="8",Пиксель
+http://s1.tvshka.net/~shwGR3nCZGhoI/199/
+#EXTINF:0,Пиксель HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/733/
+#EXTINF:0,ПлюсПлюс
+http://s1.tvshka.net/~shwGR3nCZGhoI/450/
+#EXTINF:0,ПлюсПлюс HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/732/
+#EXTINF:0,Правда ТУТ
+http://s1.tvshka.net/~shwGR3nCZGhoI/194/
+#EXTINF:0  timeshift="3",Прямий HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/206/
+#EXTINF:0,Сварожичи ТВ
+http://s1.tvshka.net/~shwGR3nCZGhoI/657/
+#EXTINF:0  timeshift="8",СТБ
+http://s1.tvshka.net/~shwGR3nCZGhoI/126/
+#EXTINF:0  timeshift="3",СТБ HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/457/
+#EXTINF:0,Тера
+http://s1.tvshka.net/~shwGR3nCZGhoI/195/
+#EXTINF:0  timeshift="8",ТЕТ
+http://s1.tvshka.net/~shwGR3nCZGhoI/212/
+#EXTINF:0  timeshift="3",ТЕТ HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/796/
+#EXTINF:0,Третий Цифровой
+http://s1.tvshka.net/~shwGR3nCZGhoI/801/
+#EXTINF:0,ТРК Репортер
+http://s1.tvshka.net/~shwGR3nCZGhoI/804/
+#EXTINF:0  timeshift="8",ТРК Украина
+http://s1.tvshka.net/~shwGR3nCZGhoI/108/
+#EXTINF:0  timeshift="3",ТРК Украина HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/447/
+#EXTINF:0,Трофей
+http://s1.tvshka.net/~shwGR3nCZGhoI/192/
+#EXTINF:0,Украина 24
+http://s1.tvshka.net/~shwGR3nCZGhoI/476/
+#EXTINF:0  timeshift="3",Униан ТВ
+http://s1.tvshka.net/~shwGR3nCZGhoI/458/
+#EXTINF:0,Фауна
+http://s1.tvshka.net/~shwGR3nCZGhoI/197/
+#EXTINF:0,ATV
+http://s1.tvshka.net/~shwGR3nCZGhoI/305/
+#EXTINF:0,ATV2
+http://s1.tvshka.net/~shwGR3nCZGhoI/306/
+#EXTINF:0  timeshift="3",Das Erste
+http://s1.tvshka.net/~shwGR3nCZGhoI/309/
+#EXTINF:0,Deutsche Welle
+http://s1.tvshka.net/~shwGR3nCZGhoI/734/
+#EXTINF:0  timeshift="3",Disney Channel DE
+http://s1.tvshka.net/~shwGR3nCZGhoI/320/
+#EXTINF:0  timeshift="3",DMAX
+http://s1.tvshka.net/~shwGR3nCZGhoI/322/
+#EXTINF:0,Euronews  Deutsch
+http://s1.tvshka.net/~shwGR3nCZGhoI/635/
+#EXTINF:0  timeshift="3",kabel eins
+http://s1.tvshka.net/~shwGR3nCZGhoI/327/
+#EXTINF:0,KIKA DE
+http://s1.tvshka.net/~shwGR3nCZGhoI/311/
+#EXTINF:0  timeshift="3",n-tv
+http://s1.tvshka.net/~shwGR3nCZGhoI/318/
+#EXTINF:0  timeshift="3",Nick DE
+http://s1.tvshka.net/~shwGR3nCZGhoI/312/
+#EXTINF:0,ORF 2
+http://s1.tvshka.net/~shwGR3nCZGhoI/308/
+#EXTINF:0,ORF eins
+http://s1.tvshka.net/~shwGR3nCZGhoI/304/
+#EXTINF:0,ORF Sport+
+http://s1.tvshka.net/~shwGR3nCZGhoI/307/
+#EXTINF:0  timeshift="3",ProSieben
+http://s1.tvshka.net/~shwGR3nCZGhoI/323/
+#EXTINF:0  timeshift="3",ProSieben Maxx
+http://s1.tvshka.net/~shwGR3nCZGhoI/324/
+#EXTINF:0  timeshift="3",RTL
+http://s1.tvshka.net/~shwGR3nCZGhoI/314/
+#EXTINF:0  timeshift="3",RTL II
+http://s1.tvshka.net/~shwGR3nCZGhoI/315/
+#EXTINF:0  timeshift="3",RTL Nitro
+http://s1.tvshka.net/~shwGR3nCZGhoI/316/
+#EXTINF:0  timeshift="3",Sat.1
+http://s1.tvshka.net/~shwGR3nCZGhoI/325/
+#EXTINF:0  timeshift="3",Sat1 Gold
+http://s1.tvshka.net/~shwGR3nCZGhoI/326/
+#EXTINF:0  timeshift="3",sixx
+http://s1.tvshka.net/~shwGR3nCZGhoI/319/
+#EXTINF:0  timeshift="3",Super RTL DE
+http://s1.tvshka.net/~shwGR3nCZGhoI/313/
+#EXTINF:0,Tagesschau 24
+http://s1.tvshka.net/~shwGR3nCZGhoI/641/
+#EXTINF:0  timeshift="3",TELE 5
+http://s1.tvshka.net/~shwGR3nCZGhoI/321/
+#EXTINF:0  timeshift="3",VOX
+http://s1.tvshka.net/~shwGR3nCZGhoI/317/
+#EXTINF:0,WDR
+http://s1.tvshka.net/~shwGR3nCZGhoI/636/
+#EXTINF:0  timeshift="3",Welt
+http://s1.tvshka.net/~shwGR3nCZGhoI/328/
+#EXTINF:0  timeshift="3",ZDF
+http://s1.tvshka.net/~shwGR3nCZGhoI/310/
+#EXTINF:0,Brazzers TV Europe
+http://s1.tvshka.net/~shwGR3nCZGhoI/738/
+#EXTINF:0,Digital Desire HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/697/
+#EXTINF:0,Dorcel HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/261/
+#EXTINF:0,Eroxxx
+http://s1.tvshka.net/~shwGR3nCZGhoI/694/
+#EXTINF:0,Hustler HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/237/
+#EXTINF:0,Penthouse Gold
+http://s1.tvshka.net/~shwGR3nCZGhoI/278/
+#EXTINF:0,Penthouse Quickies
+http://s1.tvshka.net/~shwGR3nCZGhoI/695/
+#EXTINF:0,Private TV HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/208/
+#EXTINF:0,Redlight HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/209/
+#EXTINF:0,Vivid Red HD
+http://s1.tvshka.net/~shwGR3nCZGhoI/276/
+#EXTINF:0,XXL
+http://s1.tvshka.net/~shwGR3nCZGhoI/696/
+#EXTINF:0,Cartoons 90
+http://s1.tvshka.net/~shwGR3nCZGhoI/807/
+#EXTINF:0,Cartoons Big
+http://s1.tvshka.net/~shwGR3nCZGhoI/810/
+#EXTINF:0,Cartoons Short
+http://s1.tvshka.net/~shwGR3nCZGhoI/808/
+#EXTINF:0  timeshift="3",CineMan
+http://s1.tvshka.net/~shwGR3nCZGhoI/811/
+#EXTINF:0  timeshift="3",Cineman Action
+http://s1.tvshka.net/~shwGR3nCZGhoI/812/
+#EXTINF:0  timeshift="3",CineMan Marvel
+http://s1.tvshka.net/~shwGR3nCZGhoI/815/
+#EXTINF:0  timeshift="3",CineMan Thriller
+http://s1.tvshka.net/~shwGR3nCZGhoI/814/
+#EXTINF:0  timeshift="3",CineMan Top
+http://s1.tvshka.net/~shwGR3nCZGhoI/813/
+#EXTINF:0  timeshift="3",CineMan VHS
+http://s1.tvshka.net/~shwGR3nCZGhoI/817/
+#EXTINF:0  timeshift="3",CineMan Комедия
+http://s1.tvshka.net/~shwGR3nCZGhoI/820/
+#EXTINF:0  timeshift="3",Cineman Мелодрама
+http://s1.tvshka.net/~shwGR3nCZGhoI/816/
+#EXTINF:0  timeshift="3",CineMan РуКино
+http://s1.tvshka.net/~shwGR3nCZGhoI/818/
+#EXTINF:0  timeshift="3",CineMan Сваты
+http://s1.tvshka.net/~shwGR3nCZGhoI/821/
+#EXTINF:0,CineMan Симпсоны
+http://s1.tvshka.net/~shwGR3nCZGhoI/809/
+#EXTINF:0,CineMan Скорая Помощь
+http://s1.tvshka.net/~shwGR3nCZGhoI/822/
+#EXTINF:0  timeshift="3",CineMan Ужасы
+http://s1.tvshka.net/~shwGR3nCZGhoI/819/
+#EXTINF:0  timeshift="1",Dosug TV Comedy
+http://s1.tvshka.net/~shwGR3nCZGhoI/547/
+#EXTINF:0  timeshift="1",Dosug TV Fantastic
+http://s1.tvshka.net/~shwGR3nCZGhoI/549/
+#EXTINF:0  timeshift="1",Dosug TV History
+http://s1.tvshka.net/~shwGR3nCZGhoI/567/
+#EXTINF:0  timeshift="1",Dosug TV HIT
+http://s1.tvshka.net/~shwGR3nCZGhoI/546/
+#EXTINF:0  timeshift="1",Dosug TV Horror
+http://s1.tvshka.net/~shwGR3nCZGhoI/517/
+#EXTINF:0,Dosug TV Kids
+http://s1.tvshka.net/~shwGR3nCZGhoI/548/
+#EXTINF:0  timeshift="1",Dosug TV Marvel
+http://s1.tvshka.net/~shwGR3nCZGhoI/569/
+#EXTINF:0  timeshift="1",Dosug TV New
+http://s1.tvshka.net/~shwGR3nCZGhoI/659/
+#EXTINF:0  timeshift="1",Dosug TV Russian
+http://s1.tvshka.net/~shwGR3nCZGhoI/570/
+#EXTINF:0  timeshift="1",Dosug TV VHS
+http://s1.tvshka.net/~shwGR3nCZGhoI/527/
+#EXTINF:0,Dosug TV Сваты
+http://s1.tvshka.net/~shwGR3nCZGhoI/568/
+#EXTINF:0  timeshift="1",Dosug TV Сериал
+http://s1.tvshka.net/~shwGR3nCZGhoI/587/
+#EXTINF:0,Dosug TV Скорая помощь
+http://s1.tvshka.net/~shwGR3nCZGhoI/672/
+#EXTINF:0  timeshift="1",Dosug TV СССР
+http://s1.tvshka.net/~shwGR3nCZGhoI/599/
+#EXTINF:0,Dosug TV Ходячие Мертвецы
+http://s1.tvshka.net/~shwGR3nCZGhoI/649/
+#EXTINF:0  timeshift="1",Premiere HD 1
+http://s1.tvshka.net/~shwGR3nCZGhoI/479/
+#EXTINF:0  timeshift="1",Premiere HD 2
+http://s1.tvshka.net/~shwGR3nCZGhoI/478/
+#EXTINF:0  timeshift="1",Premiere HD 3
+http://s1.tvshka.net/~shwGR3nCZGhoI/480/
+#EXTINF:0  timeshift="1",Premiere HD 4
+http://s1.tvshka.net/~shwGR3nCZGhoI/481/
+#EXTINF:0  timeshift="3",Киноджем 1
+http://s1.tvshka.net/~shwGR3nCZGhoI/735/
+#EXTINF:0  timeshift="3",Киноджем 2
+http://s1.tvshka.net/~shwGR3nCZGhoI/736/
